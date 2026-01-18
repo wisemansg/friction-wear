@@ -11,7 +11,7 @@
 
 ## 📚 Project Overview
 
-This repository documents the experimental work carried out for the Surface Science & Technology laboratory course, focusing on tribological testing methods and the influence of coatings and lubricants on friction, wear mechanisms, and surface performance.
+The project involves experimental work focused on tribological testing methods and the influence of coatings and lubricants on friction, wear mechanisms, and surface performance.
 
 The work integrates analysis of:
 - Pin-on-Disc testing (PVD coatings)
